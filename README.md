@@ -1,5 +1,5 @@
-**Multi-Screen Navigation App in SwiftUI**
-Overview
+# Multi-Screen Navigation App in SwiftUI #
+## Overview
 
 This project demonstrates how to build a multi-screen iOS application using SwiftUI NavigationStack.
 The application allows users to navigate between multiple screens while passing data between views.
@@ -14,11 +14,11 @@ Info Screen
 
 This project helps understand SwiftUI navigation, data passing, and view organization.
 
-Objective
+## Objective
 
 The objective of this lab is to learn how to build a multi-screen iOS application using SwiftUI.
 
-Key learning outcomes include:
+## Key learning outcomes include:
 
 Using NavigationStack for navigation management
 
@@ -30,7 +30,7 @@ Structuring SwiftUI applications using multiple views
 
 Customizing navigation titles
 
-App Structure
+## App Structure
 
 The application consists of three screens.
 
@@ -42,7 +42,7 @@ A welcome message
 
 A list of items (book titles)
 
-Navigation links to the Detail Screen
+## Navigation links to the Detail Screen
 
 When a user selects a book title, the app navigates to the Detail Screen and passes the selected book title.
 
